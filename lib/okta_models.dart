@@ -58,3 +58,7 @@ export 'src/note/note_tag.dart';
 
 //notification models
 export 'src/notification/notification.dart';
+
+//calendar models
+export 'src/calendar/calendar.dart';
+export 'src/calendar/calendar_member.dart';
