@@ -1,6 +1,6 @@
 name: okta_models
 description: "Shared data models for client and server."
-version: 0.0.1
+version: 0.0.2
 homepage: null
 
 environment:
